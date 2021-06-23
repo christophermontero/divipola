@@ -1,6 +1,6 @@
 {
   "name": "divipola",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is an npm package which contains all codes for administrative division of Colombia, use it wisely",
   "main": "index.js",
   "scripts": {
