@@ -1,0 +1,25 @@
+{
+  "name": "divipola",
+  "version": "1.0.0",
+  "description": "This is an npm package which contains all codes for administrative division of Colombia, use it wisely",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christophermontero/divipola.git"
+  },
+  "keywords": [
+    "divipola",
+    "colombia",
+    "npm",
+    "package"
+  ],
+  "author": "giocom21",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christophermontero/divipola/issues"
+  },
+  "homepage": "https://github.com/christophermontero/divipola#readme"
+}
