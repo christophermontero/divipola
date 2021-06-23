@@ -40,7 +40,7 @@ const divipola = require('divipola');
 
 # Author
 
-- [Christopher Ortiz Montero](https://github.com/christophermontero) :fa-github:
+- [Christopher Ortiz Montero](https://github.com/christophermontero)
 
 # License
 
