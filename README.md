@@ -1,5 +1,9 @@
 <h1 align="center"> divipola</h1>
-<p align="center"> ![npm](https://img.shields.io/npm/v/divipola) ![license](https://img.shields.io/npm/l/divipola)</p>
+
+<p align="center">
+<img src="https://img.shields.io/npm/v/divipola">
+<img src="https://img.shields.io/npm/l/divipola">
+</p>
 
 # Table of contents
 
